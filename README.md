@@ -45,8 +45,8 @@ I build AI systems that feel like magic and work in production. Currently at **X
 
 ## 📊 GitHub Stats
 
-![Mahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahd0x8&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahd0x8&layout=compact&hide_border=true&theme=default)
+![Mahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahd0x8&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahd0x8&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
