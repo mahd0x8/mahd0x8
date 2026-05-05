@@ -45,9 +45,10 @@ I build AI systems that feel like magic and work in production. Currently at **X
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahd0x8&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=mahd0x8&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahd0x8&hide_border=true&layout=compact&langs_count=8)
+[![](https://github-readme-stats.vercel.app/api?username=mahd0x8&show_icons=true&hide_border=true)](https://github.com/mahd0x8)
+
+<img src="https://streak-stats.demolab.com?user=mahd0x8&hide_border=true"/>
+
 ---
 
 ## 📬 Let's Connect
